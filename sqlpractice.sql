@@ -110,6 +110,8 @@ INNER JOIN employee_salary AS sal
 SELECT *
 FROM parks_departments; 
             
+SELECT department_id
+FROM parks_departments; 
 
 
 
